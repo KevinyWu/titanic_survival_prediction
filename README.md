@@ -7,6 +7,7 @@ Using the Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic), I app
   - Exploration of categorical and continuous features
   - Creation of new features
   - Cleaning, capping, transforming, and scaling data
+  - Feature selection
   - Training and validating models using 5-fold cross-validation
     - Logistic regression
     - Support vector machine
