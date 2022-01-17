@@ -16,8 +16,8 @@ Using the Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic), I app
     - Gradient Boosting
   - Model selection
   - Final training, submission, and results
-- [best_model.ipynb](https://github.com/KevinyWu/titanic_survival_prediction/blob/main/best_model.ipynb): streamlined notebook that tunes and improves upon gradient boosting, the best model from titanic.ipynb
+- [best_model.ipynb](https://github.com/KevinyWu/titanic_survival_prediction/blob/main/best_model.ipynb): streamlined notebook that tunes and improves upon random forest, the best model from titanic.ipynb
   - see models/best_model.pkl for model
   - see submissions/best_submission.csv for submission
 
-The gradient boosting model scored top 2% of 13400 submissions.
+The random forest model scored top 2% of 13400 submissions.
