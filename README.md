@@ -1,4 +1,7 @@
 # titanic_survival_prediction
+
+<img src="https://github.com/KevinyWu/KevinyWu/blob/main/images/titanic.png" alt="drawing" width="500"/>
+
 Using the Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic), I applied machine learning algorithms with Scikit-Learn to predict survival, using Seaborn for data visualization. 
 - data: contains cleaned and split data
 - models: contains models fit for selection and final models fit over all data
