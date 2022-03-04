@@ -1,4 +1,4 @@
-# titanic_survival_prediction
+# Titanic Survival Prediction
 
 <img src="https://github.com/KevinyWu/KevinyWu/blob/main/images/titanic.png" alt="drawing" width="500"/>
 
